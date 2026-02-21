@@ -1,9 +1,15 @@
-## Halo Semuanya 👋 Hello Everyone!
+# Halo Semuanya 👋 Hello Everyone!
 
-saya adalah *Aditya Wahyu Santoso* dan ini adalah akun personal saya tempat dimana ya bisa dibilang saya share proyek-proyek
-personal saya yang mungkin terdengar agak random dan tidak rapih, kalau mau lihat versi rapihnya ya bisa kunjungi [MadByAd](https://github.com/MadByAd)
-itu adalah akun utama dan akun yang lebih rapih punya saya
+- Halo Perkenalkan 👋 Aku adalah Adit, atau nama lengkap saya Aditya Wahyu Santoso!
+- Aku adalah seorang murid yang handal dalam pemrograman 🧑‍💻, saya juga suka untuk berkreatifitas dan menjadi siswa yang kreatif 🎨, dan saya juga memiliki ketertarikan dan kemampuan di bidang seni digital 2D dan 3D 🖌️
+- Keahlian utama saya adalah pemrograman terutama di bidang game development 🎮 yang di mana itu juga memerlukan kreatifitas dan keahlian menggambar dan desain 2D/3D, selain itu juga di bidang web development 🌐
+- Jika kalian ingin mempelajari lebih lanjut tentang saya, monggo 🙏 mampir ke website saya [adit.madbyad.my.id](https://adit.madbyad.my.id)
+- **🪄 Fun Fact:** Saya memiliki nama developer yaitu [MadByAd](https://madbyad.my.id) yang merupakan singkatan dari *Made By Aditya*
 
-I am *Aditya Wahyu Santoso* and this is my personal account where you can say its where i share my personal projects which may
-seem to look a bit random and not good, if you want to look the better version (after all this is a personal account) you can
-visit [MadByAd](https://github.com/MadByAd) which is my main account and i try to make it good
+## (English)
+
+- Hello 👋 My name is Adit, and my full name is Aditya Wahyu Santoso!
+- I am a student who excels at programming 🧑‍💻, like to be creative 🎨, and have a passion for digital art 2D and 3D 🖌️
+- My main skills are game development 🎮 which required other skills like drawing and designing 2D/3D and also web development 🌐
+- If you are interested and wanna learn more about me 😉, considering take a tour of my website [adit.madbyad.my.id](https://adit.madbyad.my.id)
+- **🪄 Fun Fact:** I also have a developer identity and that is [MadByAd](https://madbyad.my.id), it is the name i used when publishing games
