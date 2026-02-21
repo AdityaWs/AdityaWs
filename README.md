@@ -10,6 +10,6 @@
 
 - Hello 👋 My name is Adit, and my full name is Aditya Wahyu Santoso!
 - I am a student who excels at programming 🧑‍💻, like to be creative 🎨, and have a passion for digital art 2D and 3D 🖌️
-- My main skills are game development 🎮 which required other skills like drawing and designing 2D/3D and also web development 🌐
+- My main skills are programming especially game development 🎮 which required creativity and other skills like drawing and designing 2D/3D and also web development 🌐
 - If you are interested and wanna learn more about me 😉, considering take a tour of my website [adit.madbyad.my.id](https://adit.madbyad.my.id)
 - **🪄 Fun Fact:** I also have a developer identity and that is [MadByAd](https://madbyad.my.id), it is the name i used when publishing games
