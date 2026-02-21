@@ -50,6 +50,6 @@
 [![YouTube Social Button](./social-buttons/youtube-social-button.png)](https://youtube.com/@aditya-wahyu-dev)
 [![Blogger Site Button](./social-buttons/blogger-social-button.png)](https://blog.madbyad.my.id)
 [![Github Social Button](./social-buttons/github-social-button.png)](https://github.com/MadByAd)
-[![Website Link Button](./social-buttons/html5-social-button.png)](https://adit.madbyad.my.id)
-[![Itch.Io Page Button](./social-buttons/itch.io-social-button.png)](https://madbyad.itch.io)
+[![Website Link Button](./social-buttons/HTML5-social-button.png)](https://adit.madbyad.my.id)
+[![Itch.Io Page Button](./social-buttons/Itch.io-social-button.png)](https://madbyad.itch.io)
 [![Playstore Page Button](./social-buttons/googleplay-social-button.png)](https://playstore.madbyad.my.id)
