@@ -14,6 +14,34 @@
 - If you are interested and wanna learn more about me 😉, considering take a tour of my website [adit.madbyad.my.id](https://adit.madbyad.my.id)
 - **🪄 Fun Fact:** I also have a developer identity and that is [MadByAd](https://madbyad.my.id), it is the name i used when publishing games
 
+## Projects
+
+| Project | Type | Links |
+| ------- | ---- | ----- |
+| Pumpkin Nights | *Game Project* | [Click Here](https://madbyad.itch.io/pumpkin-nights) |
+| Bara Basic | *Game Project* | [Click Here](https://madbyad.itch.io/bara-basic) |
+| Shindura Story | *Study Project (Game)* | [Click Here](https://madbyad.itch.io/shindura-story) |
+| Idle Space Station | *Study Project (Game)* | [Click Here](https://madbyad.itch.io/idle-space-station) |
+| Top Craft | *Study Project (Game)* | [Click Here](https://adit.madbyad.my.id/Game-TopCraft) |
+| The Running Wall | *Study Project (Game)* | [Click Here](https://madbyad.itch.io/the-running-wall) |
+| Map Of The Solar System | *Educational Web Application* | [Click Here](https://madbyad.itch.io/map-of-the-solar-system) |
+| Singking of Adiska 1024th Fleet | *School Video Project (VFX, Videography)* | [Click Here](https://youtu.be/5HELwBEt7wE?si=TiE8vaiUZZwoXrFl) |
+| IPAS Tata Surya | *Study Project (Web App)* | [Click Here](https://adit.madbyad.my.id/IPAS-TataSurya) |
+| Gedhe Endhase | *Design Concept (Website)* | [Click Here](https://adit.madbyad.my.id/GedheEndhase) |
+| Urbanex | *Design Concept (Website)* | [Click Here](https://adit.madbyad.my.id/Urbanex) |
+| Kartu Ucapan Puasa 2026 | *Mini Project (Website)* | [Click Here](https://adit.madbyad.my.id/kartu-ucapan-puasa-2026M) |
+| Web Tahun Baru 2022 | *Mini Project (Website)* | [Click Here](https://adit.madbyad.my.id/Web-Tahun-Baru-2022/) |
+| Adit Social Button Generator | *Web Application* | [Click Here](https://adit.madbyad.my.id/adit-social-button-generator) |
+| GX DocPyGen | *Python Tool* | [Click Here](https://github.com/MadByAd/gx-docpygen) |
+| Kubikka Mesh Tool | *Game Dev Tool* | [Click Here](https://github.com/MadByAd/Kubikka-Mesh-Tool) |
+| Kubikka Project | *Game Project Prototype* | [Click Here](https://github.com/MadByAd/Kubikka-Alpha) |
+| MPL DateTime | *PHP Library* | [Click Here](https://github.com/MadByAd/MPL-DateTime) |
+| MPL Verify | *PHP Library* | [Click Here](https://github.com/MadByAd/MPL-Verify) |
+| MPL LongPoll | *PHP Library* | [Click Here](https://github.com/MadByAd/MPL-LongPoll) |
+| MJL LongPoll | *PHP Library* | [Click Here](https://github.com/MadByAd/MJL-LongPoll) |
+| MPL MySQL | *PHP Library* | [Click Here](https://github.com/MadByAd/MPL-MySQL) |
+| MPL NumberConverter | *PHP Library* | [Click Here](https://github.com/MadByAd/MPL-NumberConverter) |
+
 ---
 
 ## Social & Site Links
