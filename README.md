@@ -31,7 +31,9 @@
 | 🏙️ Urbanex | *Design Concept (Website)* | [Click Here](https://adit.madbyad.my.id/Urbanex) |
 | 🕌 Kartu Ucapan Puasa 2026 | *Mini Project (Website)* | [Click Here](https://adit.madbyad.my.id/kartu-ucapan-puasa-2026M) |
 | 🎊 Web Tahun Baru 2022 | *Mini Project (Website)* | [Click Here](https://adit.madbyad.my.id/Web-Tahun-Baru-2022/) |
+| 🎴 Adit Itch Card Generator | *Web Application* | [Click Here](https://adit.madbyad.my.id/adit-itch-card-generator) |
 | 📸 Adit Social Button Generator | *Web Application* | [Click Here](https://adit.madbyad.my.id/adit-social-button-generator) |
+| 🌐 MadMad HTTP Catcher | *Programming Tool* | [Click Here](https://github.com/MadByAd/MADMAD-HTTP-Catcher) |
 | 📃 GX DocPyGen | *Python Tool* | [Click Here](https://github.com/MadByAd/gx-docpygen) |
 | 🔧 Kubikka Mesh Tool | *Game Dev Tool* | [Click Here](https://github.com/MadByAd/Kubikka-Mesh-Tool) |
 | 🛠️ Kubikka Project | *Game Project Prototype* | [Click Here](https://github.com/MadByAd/Kubikka-Alpha) |
