@@ -6,7 +6,7 @@
 - Jika kalian ingin mempelajari lebih lanjut tentang saya, monggo 🙏 mampir ke website saya [https://adit.madbyad.my.id](https://adit.madbyad.my.id)
 - **🪄 Fun Fact:** Saya memiliki nama developer yaitu [MadByAd](https://madbyad.my.id) yang merupakan singkatan dari *Made By Aditya*
 
-## (English)
+## (English) 💬
 
 - Hello 👋 My name is Adit, and my full name is Aditya Wahyu Santoso!
 - I am a student who excels at programming 🧑‍💻, like to be creative 🎨, and have a passion for digital art 2D and 3D 🖌️
@@ -29,6 +29,7 @@
 | 🪐 IPAS Tata Surya | *Study Project (Web App)* | [Click Here](https://adit.madbyad.my.id/IPAS-TataSurya) | [Click Here](https://github.com/adityaws/IPAS-TataSurya) |
 | 🧥 Gedhe Endhase | *Design Concept (Website)* | [Click Here](https://adit.madbyad.my.id/GedheEndhase) | [Click Here](https://github.com/adityaws/GedheEndhase) |
 | 🏙️ Urbanex | *Design Concept (Website)* | [Click Here](https://adit.madbyad.my.id/Urbanex) | [Click Here](https://github.com/adityaws/Urbanex) |
+| 🙏 Generator Kartu Maaf Digital | *Mini Project (Website)* | [Click Here](https://adit.madbyad.my.id/kartu-maaf) | [Click Here](https://github.com/adityaws/kartu-maaf) |
 | 🕌 Kartu Ucapan Puasa 2026 | *Mini Project (Website)* | [Click Here](https://adit.madbyad.my.id/kartu-ucapan-puasa-2026M) | [Click Here](https://github.com/adityaws/kartu-ucapan-puasa-2026M) |
 | 🎊 Web Tahun Baru 2022 | *Mini Project (Website)* | [Click Here](https://adit.madbyad.my.id/Web-Tahun-Baru-2022/) | [Click Here](https://github.com/adityaws/Web-Tahun-Baru-2022) |
 | 🌿 Adit Nutrition Facts Generator | *Web Application* | [Click Here](https://adit.madbyad.my.id/adit-nutrition-facts-generator) | [Click Here](https://github.com/adityaws/adit-nutrition-facts-generator) |
