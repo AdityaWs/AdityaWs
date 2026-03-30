@@ -18,6 +18,7 @@
 
 | Project | Type | Links | Repository |
 | ------- | ---- | ----- | ---------- |
+| 💼 Scary Corporate Life Simulator | *Game Project* | [Click Here](https://madbyad.itch.io/scary-corporate-life-simulator) |
 | 🎃 Pumpkin Nights | *Game Project* | [Click Here](https://madbyad.itch.io/pumpkin-nights) |
 | 🏫 Bara Basic | *Game Project* | [Click Here](https://madbyad.itch.io/bara-basic) |
 | 🌐 Shindura Story | *Study Project (Game)* | [Click Here](https://madbyad.itch.io/shindura-story) |
@@ -35,7 +36,8 @@
 | 🌿 Adit Nutrition Facts Generator | *Web Application* | [Click Here](https://adit.madbyad.my.id/adit-nutrition-facts-generator) | [Click Here](https://github.com/adityaws/adit-nutrition-facts-generator) |
 | 🎴 Adit Itch Card Generator | *Web Application* | [Click Here](https://adit.madbyad.my.id/adit-itch-card-generator) | [Click Here](https://github.com/adityaws/adit-itch-card-generator) |
 | 📸 Adit Social Button Generator | *Web Application* | [Click Here](https://adit.madbyad.my.id/adit-social-button-generator) | [Click Here](https://github.com/adityaws/adit-social-button-generator) |
-| 📡 Godot HTTP Module | *Godot Library* | [Click here](https://github.com/madbyad/Godot-HTTP-Module) |
+| 💾 Godot Saves Utility | *Godot Utility* | [Click Here](https://github.com/madbyad/Godot-Saves-Utility) |
+| 📡 Godot HTTP Module | *Godot Addon* | [Click Here](https://github.com/madbyad/Godot-HTTP-Module) |
 | 🌐 MadMad HTTP Catcher | *Programming Tool* | [Click Here](https://github.com/MadByAd/MADMAD-HTTP-Catcher) | [Click Here](https://github.com/madbyad/MADMAD-HTTP-Catcher) |
 | 📃 GX DocPyGen | *Python Tool* | [Click Here](https://github.com/MadByAd/gx-docpygen) | [Click Here](https://github.com/madbyad/gx-docpygen) |
 | 🔧 Kubikka Mesh Tool | *Game Dev Tool* | [Click Here](https://github.com/MadByAd/Kubikka-Mesh-Tool) | [Click Here](https://github.com/madbyad/Kubikka-Mesh-Tool) |
