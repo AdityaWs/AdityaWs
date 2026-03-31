@@ -33,11 +33,12 @@
 | 🙏 Generator Kartu Maaf Digital | *Mini Project (Website)* | [Click Here](https://adit.madbyad.my.id/kartu-maaf) | [Click Here](https://github.com/adityaws/kartu-maaf) |
 | 🕌 Kartu Ucapan Puasa 2026 | *Mini Project (Website)* | [Click Here](https://adit.madbyad.my.id/kartu-ucapan-puasa-2026M) | [Click Here](https://github.com/adityaws/kartu-ucapan-puasa-2026M) |
 | 🎊 Web Tahun Baru 2022 | *Mini Project (Website)* | [Click Here](https://adit.madbyad.my.id/Web-Tahun-Baru-2022/) | [Click Here](https://github.com/adityaws/Web-Tahun-Baru-2022) |
+| 😎 Emoji Logo Generator | *Web Application* | [Click Here](https://adit.madbyad.my.id/emoji-logo-generator) | [Click Here](https://github.com/adityaws/emoji-logo-generator) |
 | 🌿 Adit Nutrition Facts Generator | *Web Application* | [Click Here](https://adit.madbyad.my.id/adit-nutrition-facts-generator) | [Click Here](https://github.com/adityaws/adit-nutrition-facts-generator) |
 | 🎴 Adit Itch Card Generator | *Web Application* | [Click Here](https://adit.madbyad.my.id/adit-itch-card-generator) | [Click Here](https://github.com/adityaws/adit-itch-card-generator) |
 | 📸 Adit Social Button Generator | *Web Application* | [Click Here](https://adit.madbyad.my.id/adit-social-button-generator) | [Click Here](https://github.com/adityaws/adit-social-button-generator) |
-| 💾 Godot Saves Utility | *Godot Utility* | [Click Here](https://github.com/madbyad/Godot-Saves-Utility) |
-| 📡 Godot HTTP Module | *Godot Addon* | [Click Here](https://github.com/madbyad/Godot-HTTP-Module) |
+| 💾 Godot Saves Utility | *Godot Utility* | [Click Here](https://github.com/madbyad/Godot-Saves-Utility) | [Click Here](https://github.com/madbyad/Godot-Saves-Utility) |
+| 📡 Godot HTTP Module | *Godot Addon* | [Click Here](https://github.com/madbyad/Godot-HTTP-Module) | [Click Here](https://github.com/madbyad/Godot-HTTP-Module) |
 | 🌐 MadMad HTTP Catcher | *Programming Tool* | [Click Here](https://github.com/MadByAd/MADMAD-HTTP-Catcher) | [Click Here](https://github.com/madbyad/MADMAD-HTTP-Catcher) |
 | 📃 GX DocPyGen | *Python Tool* | [Click Here](https://github.com/MadByAd/gx-docpygen) | [Click Here](https://github.com/madbyad/gx-docpygen) |
 | 🔧 Kubikka Mesh Tool | *Game Dev Tool* | [Click Here](https://github.com/MadByAd/Kubikka-Mesh-Tool) | [Click Here](https://github.com/madbyad/Kubikka-Mesh-Tool) |
