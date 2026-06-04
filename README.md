@@ -26,8 +26,8 @@
 | 🟩 Top Craft | *Study Project (Game)* | [Click Here](https://adit.madbyad.my.id/Game-TopCraft) |
 | 🧱 The Running Wall | *Study Project (Game)* | [Click Here](https://madbyad.itch.io/the-running-wall) |
 | 🌌 Map Of The Solar System | *Educational Web Application* | [Click Here](https://madbyad.itch.io/map-of-the-solar-system) |
-| 🚨 Road Safety Advertisement | *School Video Project (VFX, Videography)* | [Click Here]([https://youtu.be/5HELwBEt7wE?si=TiE8vaiUZZwoXrFl](https://youtu.be/hzAQnMRJErA?si=a0PxCSeAn_xvDEV5)) |
-| 🧭 Expedition III | *School Video Project (VFX, Filmmaking)* | [Click Here]([https://youtu.be/5HELwBEt7wE?si=TiE8vaiUZZwoXrFl](https://youtu.be/MQSwasZPy7U?si=aHkbWOsuySJv2yT4)) |
+| 🚨 Road Safety Advertisement | *School Video Project (VFX, Videography)* | [Click Here](https://youtu.be/hzAQnMRJErA?si=a0PxCSeAn_xvDEV5) |
+| 🧭 Expedition III | *School Video Project (VFX, Filmmaking)* | [Click Here](https://youtu.be/MQSwasZPy7U?si=tAl8bHk2a5N82pg2) |
 | 🚢 Sinking of Adiska 1024th Fleet | *School Video Project (VFX, Videography)* | [Click Here](https://youtu.be/5HELwBEt7wE?si=TiE8vaiUZZwoXrFl) |
 | 🪐 IPAS Tata Surya | *Study Project (Web App)* | [Click Here](https://adit.madbyad.my.id/IPAS-TataSurya) | [Click Here](https://github.com/adityaws/IPAS-TataSurya) |
 | 🧥 Gedhe Endhase | *Design Concept (Website)* | [Click Here](https://adit.madbyad.my.id/GedheEndhase) | [Click Here](https://github.com/adityaws/GedheEndhase) |
